@@ -8,3 +8,9 @@
 - (If not) Run in terminal `npm install`
 - (If not) Run in terminal `npm start`
 - Navigate to https://localhost:3000
+
+
+### Extra Miles
+- D○	Implementation of Product Detail Page
+- Handling responsiveness for web view
+- Deploying the web for live testing with GitHub
