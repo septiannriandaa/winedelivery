@@ -11,6 +11,6 @@
 
 
 ### Extra Miles
-- D○	Implementation of Product Detail Page
+- D○ implementation of Product Detail Page
 - Handling responsiveness for web view
 - Deploying the web for live testing with GitHub
